@@ -18,4 +18,4 @@ Mobil uygulama geliştirme konusunda kendimi geliştirmeyi hedefliyorum.
 
 - Java & Kotlin
 - Flutter & Dart
-- HTML & CSS
+- HTML & CSS & JavaScript

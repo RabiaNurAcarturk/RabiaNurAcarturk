@@ -3,10 +3,10 @@
 
 ## 💡 İlgi Alanlarım:
 
-- 🎮 Çocuklara yönelik eğitici ve geliştirici dijital içerikler
-- 🤖 Yapay zeka ve yazılımın çocuk gelişimine etkileri
-- 🎶 Tasavvufta kullanılan müzik enstrümanları (bendir, ney)
-- 🌍 Yabancı diller (İngilizce, Arapça, İspanyolca)
+🎮 Çocuklara yönelik eğitici ve geliştirici dijital içerikler
+🤖 Yapay zeka ve yazılımın çocuk gelişimine etkileri
+🎶 Tasavvufta kullanılan müzik enstrümanları (bendir, ney)
+🌍 Yabancı diller (İngilizce, Arapça, İspanyolca)
 
 ## 📌 GitHub'da Neler Yapıyorum?
 

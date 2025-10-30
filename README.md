@@ -1,5 +1,4 @@
-
-![white-cloud-gray](https://github.com/user-attachments/assets/7751531d-30e9-4b93-9944-7bd226294420)
+![fullframenl-fullframe](https://github.com/user-attachments/assets/186f900f-909f-456d-ba5b-7502a8288974)
 
 <h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
 <h3 align="center">From Türkiye | Child Development & Software Developer</h3>

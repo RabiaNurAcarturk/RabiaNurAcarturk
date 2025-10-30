@@ -1,4 +1,6 @@
-![fullframenl-fullframe](https://github.com/user-attachments/assets/186f900f-909f-456d-ba5b-7502a8288974)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/186f900f-909f-456d-ba5b-7502a8288974"width="350">
+</p>
 
 <h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
 <h3 align="center">From Türkiye | Child Development & Software Developer</h3>

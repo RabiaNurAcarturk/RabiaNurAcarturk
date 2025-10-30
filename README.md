@@ -1,10 +1,11 @@
-# Hi 👋, I'm Rabia Nur
-
-### Child Development & Flutter Developer
-
 <p align="center">
-  <img src="https://dribbble.com/shots/520437-Butterfly-GIF?utm_source=Clipboard_Shot&utm_campaign=dansolomon&utm_content=Butterfly%20(GIF)&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dansolomon&utm_content=Butterfly%20(GIF)&utm_medium=Social_Share" width="350">
+  <img src="https://cdn.dribbble.com/userupload/18997149/file/original-7d1253840f943206d399e9438b00ee29.gif" width="350">
 </p>
+
+
+<h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
+<h3 align="center">From Türkiye | Child Development & Software Developer</h3>
+
 
 - 🔭 I'm currently working on **developing educational and supportive digital solutions for children’s development.**
 
@@ -29,5 +30,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RabiaNurAcarturk&" alt="RabiaNurAcarturk" /></p>
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=RabiaNurAcarturk&theme=radical" alt="RabiaNurAcarturk" /></p>

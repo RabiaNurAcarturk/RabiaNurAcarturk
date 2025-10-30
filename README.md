@@ -2,18 +2,17 @@
   <img src="https://github.com/user-attachments/assets/d27711da-8055-4469-97d0-09b4c316777a">
 </p>
 
-<h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
+<h1 align="center">Hi👋 I'm Rabia Nur ☺️</h1>
 <h3 align="center">From Türkiye | Child Development & Software Developer</h3>
 
 
-- 🔭 I'm currently working on **developing educational and supportive digital solutions for children’s development.**
+- 👾 I'm currently working on **developing educational and supportive digital solutions for children’s development.**
 
 - 🌱 I'm currently learning **mobile app development.**
 
-- 👯 I'm looking to collaborate on **digital addiction prevention, educational technologies and mobile application development.**
+- 👥 I'm looking to collaborate on **digital addiction prevention, educational technologies and mobile application development.**
 
-- 🤝 I'm looking for help with **code error, app architecture and improving problem-solving skills.
-**
+- 🤝 I'm looking for help with **code error, app architecture and improving problem-solving skills.**
 
 - 💬 Ask me about **Child development, digital solutions for children, and beginner programming tips. I can help you =)**
 

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/f2u8Ew2.gif" width="350">
-</p>
+
+![white-cloud-gray](https://github.com/user-attachments/assets/7751531d-30e9-4b93-9944-7bd226294420)
 
 <h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
 <h3 align="center">From Türkiye | Child Development & Software Developer</h3>

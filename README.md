@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/46ba2cf1-538c-4dc0-a5bb-2c09646d7c6e">
+  <img src="https://github.com/user-attachments/assets/d27711da-8055-4469-97d0-09b4c316777a">
 </p>
 
 <h1 align="center">Hi👋 I'm Rabia Nur =)</h1>

@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/18997149/file/original-7d1253840f943206d399e9438b00ee29.gif" width="350">
+  <img src="https://i.imgur.com/f2u8Ew2.gif" width="350">
 </p>
-
 
 <h1 align="center">Hi👋 I'm Rabia Nur =)</h1>
 <h3 align="center">From Türkiye | Child Development & Software Developer</h3>
